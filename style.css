@@ -1,0 +1,56 @@
+body {
+	
+	font-family: "Lucida Console";
+}
+
+.flex-container {
+		display: flex;
+	}
+
+.colonne1 {
+	background-color:white;  
+	width: 15%;
+}
+
+.colonne2 {
+	background-color: #f1f1f1!important; 
+	width: 20%; 
+	padding-left:0.5em;
+}
+
+.colonne3 {
+	width: 50%; 
+	margin-left:0.5em ;
+	margin-right:0.5em ;
+}
+
+.colonne4 {
+	background-color: rgba(0, 128, 0, 0.185); 
+	width: 15%;
+}
+
+.titre
+{
+	color: #4CAF50!important; 
+	font-size: 1.5em;
+}
+
+#image
+{
+	width: 100%;
+}
+
+img {
+	width: 23%;
+}
+
+p{
+	font-size: 0.75em;
+}
+
+button{
+	width: 30%;
+	background-color:green;
+	color: white;
+	border:0;
+}
